@@ -1,7 +1,7 @@
 # Presentación
 
-## Estudiante: Franco Centurión
+## Estudiante: *Franco Ezequiel Centurión*
 
-![mi foto](IMG_1548)
+![mi foto](profilepic)
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+Mi nombre es **Franco** y tengo 20 años. Estoy cursando mi segundo año de la carrera de **Ingeniería en Sistemas de Información** en la UTN FRBA. Soy un aficionado de la tecnología, las matemáticas, la literatura, los idiomas y el fútbol.
